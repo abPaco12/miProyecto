@@ -1,0 +1,7 @@
+D:\programacion 2\parctica\capaNegocio\bin\Debug\capaNegocio.dll
+D:\programacion 2\parctica\capaNegocio\bin\Debug\capaNegocio.pdb
+D:\programacion 2\parctica\capaNegocio\bin\Debug\capaDatos.dll
+D:\programacion 2\parctica\capaNegocio\bin\Debug\capaDatos.pdb
+D:\programacion 2\parctica\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+D:\programacion 2\parctica\capaNegocio\obj\Debug\capaNegocio.dll
+D:\programacion 2\parctica\capaNegocio\obj\Debug\capaNegocio.pdb

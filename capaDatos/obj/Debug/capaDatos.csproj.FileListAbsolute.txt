@@ -1,0 +1,4 @@
+D:\programacion 2\parctica\capaDatos\bin\Debug\capaDatos.dll
+D:\programacion 2\parctica\capaDatos\bin\Debug\capaDatos.pdb
+D:\programacion 2\parctica\capaDatos\obj\Debug\capaDatos.dll
+D:\programacion 2\parctica\capaDatos\obj\Debug\capaDatos.pdb

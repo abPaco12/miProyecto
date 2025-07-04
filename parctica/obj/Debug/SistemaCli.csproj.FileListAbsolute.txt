@@ -1,0 +1,14 @@
+D:\programacion 2\parctica\parctica\bin\Debug\parctica.exe.config
+D:\programacion 2\parctica\parctica\bin\Debug\parctica.exe
+D:\programacion 2\parctica\parctica\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\programacion 2\parctica\parctica\bin\Debug\capaNegocio.dll
+D:\programacion 2\parctica\parctica\bin\Debug\capaDatos.dll
+D:\programacion 2\parctica\parctica\bin\Debug\capaNegocio.pdb
+D:\programacion 2\parctica\parctica\bin\Debug\capaDatos.pdb
+D:\programacion 2\parctica\parctica\obj\Debug\SistemaCli.csprojResolveAssemblyReference.cache
+D:\programacion 2\parctica\parctica\obj\Debug\parctica.Form1.resources
+D:\programacion 2\parctica\parctica\obj\Debug\parctica.Properties.Resources.resources
+D:\programacion 2\parctica\parctica\obj\Debug\SistemaCli.csproj.GenerateResource.Cache
+D:\programacion 2\parctica\parctica\bin\Debug\parctica.pdb
+D:\programacion 2\parctica\parctica\obj\Debug\parctica.exe
+D:\programacion 2\parctica\parctica\obj\Debug\parctica.pdb
